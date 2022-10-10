@@ -1,7 +1,7 @@
 import random
 
 
-def quicksor(nodes, degree):
+def quicksort(nodes, degree):
     if len(nodes) <= 1:
         return nodes
     else:
