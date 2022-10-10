@@ -1,7 +1,3 @@
-import matplotlib.pyplot as plt
-import random
-
-
 class DirectedGraph:
     def __init__(self, n=None, e=None):
         if n is None:

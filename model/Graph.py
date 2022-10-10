@@ -1,5 +1,6 @@
-import matplotlib.pyplot as plt
 import random
+
+import matplotlib.pyplot as plt
 
 
 class Graph:
